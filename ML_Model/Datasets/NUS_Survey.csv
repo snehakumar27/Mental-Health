@@ -1,0 +1,97 @@
+Timestamp,Age,"Year of Study (if you are a graduate, please specify in ""Other"")",Gender,Current country of residence,University of Study,Major Category (Choose one that applies most to you),Financially stable?,How many hours of sleep do you get in a day?,How often do you exercise?,How often do you get 3 meals a day?,Loss of interest in activities that you once enjoyed,How often are you able to concentrate?,Do you have a family history of mental illness?,Have you sought treatment for a mental health condition?,"If you have a mental health condition, do you feel that it interferes with your work?"
+3/14/2022 19:59:33,22,2,Male,Singapore,NUS,Science,5,3-6hrs,Never,Never,Sometimes,Rarely,No,No,N/A (Not Applicable)
+3/14/2022 20:01:27,22,2,Male,Singapore,NUS,Science,2,6-8hrs,Often,Always,Sometimes,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:02:04,21,2,Female,Singapore,NUS,Science,6,3-6hrs,Rarely,Always,Sometimes,Sometimes,No,No,Always
+3/14/2022 20:03:49,20,1,Female,Singapore,NUS,Nursing,5,6-8hrs,Rarely,Often,Rarely,Rarely,No,No,Rarely
+3/14/2022 20:04:18,23,2,Male,Singapore,NUS,Science,3,3-6hrs,Sometimes,Often,Never,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:04:22,20,2,Female,Singapore,NUS,Science,4,6-8hrs,Sometimes,Always,Sometimes,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:07:55,23,2,Male,Singapore,NTU,Business,5,6-8hrs,Rarely,Sometimes,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 20:08:57,24,4,Female,Singapore,NTU,Engineering,5,>8hrs,Rarely,Always,Rarely,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:10:29,21,3,Female,Singapore,NUS,Business,2,6-8hrs,Sometimes,Always,Rarely,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:15:45,22,2,Male,Singapore,NTU,Engineering,5,6-8hrs,Often,Always,Sometimes,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:16:05,22,1,Male,Singapore,NUS,Business,3,0-3hrs,Never,Rarely,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 20:16:53,23,2,Male,Singapore,NUS,Science,4,6-8hrs,Often,Always,Rarely,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:19:32,23,4,Female,Singapore,SIM,Arts & Humanities,2,3-6hrs,Sometimes,Rarely,Sometimes,Sometimes,No,Yes,Sometimes
+3/14/2022 20:23:57,23,2,Male,Singapore,NUS,Engineering,5,3-6hrs,Sometimes,Sometimes,Rarely,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:25:58,23,4,Female,Singapore,NUS,Science,2,6-8hrs,Rarely,Often,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 20:27:07,21,1,Female,Singapore,SIM,Business,4,3-6hrs,Often,Sometimes,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 20:32:43,23,2,Male,Singapore,NUS,Engineering,6,3-6hrs,Rarely,Often,Rarely,Often,No,No,N/A (Not Applicable)
+3/14/2022 20:37:06,23,2,Male,Singapore,NUS,Computing,6,6-8hrs,Sometimes,Often,Rarely,Often,No,No,N/A (Not Applicable)
+3/14/2022 21:07:25,23,2,Male,Singapore,NUS,Engineering,3,6-8hrs,Always,Always,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 21:18:05,23,2,Male,Singapore,NTU,Engineering,4,6-8hrs,Sometimes,Always,Sometimes,Often,No,No,N/A (Not Applicable)
+3/14/2022 21:20:33,22,2,Male,Singapore,NUS,Engineering,5,6-8hrs,Often,Never,Sometimes,Often,No,No,N/A (Not Applicable)
+3/14/2022 21:26:24,23,2,Male,Singapore,NUS,Science,4,6-8hrs,Sometimes,Rarely,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 21:45:19,22,2,Male,Singapore,NTU,Computing,1,6-8hrs,Always,Always,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 21:55:05,22,2,Male,Singapore,NTU,Business,5,3-6hrs,Sometimes,Rarely,Often,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 22:02:38,23,1,Male,Singapore,SIT,Science,5,3-6hrs,Often,Always,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/14/2022 22:06:14,23,2,Male,Singapore,NUS,Science,2,0-3hrs,Sometimes,Never,Sometimes,Rarely,No,Yes,Sometimes
+3/14/2022 22:20:02,23,4,Female,Singapore,NUS,Science,3,6-8hrs,Rarely,Rarely,Sometimes,Sometimes,No,Yes,Often
+3/15/2022 1:41:48,23,2,Male,Singapore,NUS,Science,5,6-8hrs,Sometimes,Often,Rarely,Often,No,No,N/A (Not Applicable)
+3/15/2022 2:37:14,20,2,Female,Singapore,NUS,Science,4,6-8hrs,Sometimes,Rarely,Rarely,Rarely,No,No,Sometimes
+3/15/2022 8:54:08,23,4,Prefer not to say,Singapore,NUS,Business,5,3-6hrs,Often,Sometimes,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/15/2022 11:36:31,23,2,Male,Singapore,NUS,Law,5,3-6hrs,Always,Often,Sometimes,Often,No,No,Never
+3/15/2022 20:01:15,23,2,Prefer not to say,Australia,Monash,Computing,5,6-8hrs,Rarely,Often,Sometimes,Often,No,Yes,Sometimes
+3/15/2022 20:03:08,23,2,Male,Singapore,NTU,Computing,4,6-8hrs,Sometimes,Always,Always,Often,No,No,N/A (Not Applicable)
+3/15/2022 20:05:02,19,3,Male,Australia,Monash,Science,4,3-6hrs,Sometimes,Rarely,Often,Sometimes,No,No,Often
+3/15/2022 20:30:11,21,2,Female,Singapore,NUS,Law,6,3-6hrs,Often,Often,Rarely,Often,No,No,N/A (Not Applicable)
+3/15/2022 20:30:53,21,2,Female,Singapore,NUS,Law,5,6-8hrs,Rarely,Sometimes,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/15/2022 20:31:38,23,2,Male,Singapore,NUS,Law,4,3-6hrs,Often,Sometimes,Never,Sometimes,No,No,N/A (Not Applicable)
+3/15/2022 20:32:25,22,2,Female,Singapore,NUS,Law,5,3-6hrs,Often,Sometimes,Sometimes,Often,No,No,N/A (Not Applicable)
+3/15/2022 20:38:56,19,2,Female,Singapore,NUS,Law,6,3-6hrs,Sometimes,Rarely,Sometimes,Sometimes,No,Yes,Always
+3/15/2022 22:17:52,23,2,Male,Singapore,NUS,Science,4,6-8hrs,Often,Always,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/16/2022 1:44:58,19,2,Female,Singapore,NUS,Science,5,6-8hrs,Sometimes,Often,Sometimes,Sometimes,No,Yes,Sometimes
+3/16/2022 11:32:19,20,2,Female,Singapore,NUS,Science,4,6-8hrs,Often,Rarely,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/16/2022 18:27:59,23,2,Male,Singapore,NUS,Computing,3,6-8hrs,Sometimes,Often,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/16/2022 23:38:11,22,2,Male,Singapore,NTU,Computing,2,6-8hrs,Often,Always,Sometimes,Rarely,No,No,N/A (Not Applicable)
+3/17/2022 11:46:14,24,2,Male,Singapore,SIT,Business,4,6-8hrs,Rarely,Often,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/17/2022 11:47:24,19,1,Female,Singapore,NUS,Engineering,4,6-8hrs,Often,Often,Sometimes,Rarely,No,No,Often
+3/17/2022 11:49:42,23,2,Male,Singapore,NUS,Science,5,3-6hrs,Often,Always,Sometimes,Sometimes,No,No,Rarely
+3/17/2022 11:50:09,22,2,Male,Singapore,NUS,Computing,6,6-8hrs,Rarely,Often,Often,Often,Yes,No,Sometimes
+3/17/2022 11:55:22,25,3,Male,Singapore,SMU,Arts & Humanities,5,3-6hrs,Sometimes,Often,Often,Often,No,No,Sometimes
+3/17/2022 11:58:50,24,4,Male,Singapore,NUS,Engineering,4,3-6hrs,Sometimes,Often,Sometimes,Sometimes,Yes,No,N/A (Not Applicable)
+3/17/2022 11:59:27,23,2,Male,Singapore,SMU,Business,6,6-8hrs,Sometimes,Sometimes,Never,Often,No,No,N/A (Not Applicable)
+3/17/2022 12:02:23,23,2,Male,Singapore,NUS,Business,3,3-6hrs,Rarely,Rarely,Sometimes,Sometimes,No,Yes,Always
+3/17/2022 12:11:08,20,2,Female,Singapore,NUS,Design and Environment,2,3-6hrs,Rarely,Never,Sometimes,Rarely,No,No,N/A (Not Applicable)
+3/17/2022 12:22:27,20,2,Female,Singapore,NUS,Science,5,6-8hrs,Rarely,Often,Rarely,Sometimes,No,Yes,N/A (Not Applicable)
+3/17/2022 12:31:20,22,3,Female,Singapore,NUS,Engineering,3,6-8hrs,Rarely,Rarely,Often,Sometimes,No,No,N/A (Not Applicable)
+3/17/2022 12:53:26,22,1,Male,Singapore,NUS,Engineering,2,3-6hrs,Rarely,Rarely,Rarely,Rarely,No,No,N/A (Not Applicable)
+3/17/2022 12:56:14,20,1,Female,Singapore,NUS,Arts & Humanities,3,6-8hrs,Always,Always,Sometimes,Rarely,No,Yes,Often
+3/17/2022 13:51:37,25,5,Male,Singapore,NUS,Science,4,3-6hrs,Often,Rarely,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/17/2022 14:50:00,22,1,Female,Singapore,NUS,Computing,5,3-6hrs,Sometimes,Rarely,Rarely,Often,No,No,N/A (Not Applicable)
+3/17/2022 14:52:54,21,2,Female,Singapore,NUS,Science,5,6-8hrs,Sometimes,Often,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/17/2022 16:01:53,22,4,Female,Singapore,NUS,Science,5,6-8hrs,Often,Always,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/17/2022 17:30:57,21,2,Female,Singapore,NUS,Medicine,3,3-6hrs,Rarely,Often,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/17/2022 22:23:51,21,2,Female,Singapore,NUS,Science,3,>8hrs,Never,Rarely,Rarely,Often,No,No,N/A (Not Applicable)
+3/17/2022 23:08:15,22,2,Male,Singapore,SUTD,Computing,1,3-6hrs,Sometimes,Rarely,Rarely,Often,No,No,N/A (Not Applicable)
+3/17/2022 23:52:30,23,5,Female,Singapore,NUS,Nursing,5,6-8hrs,Rarely,Rarely,Often,Sometimes,No,No,N/A (Not Applicable)
+3/18/2022 7:07:34,20,2,Female,Singapore,NUS,Science,3,6-8hrs,Always,Always,Sometimes,Often,No,No,N/A (Not Applicable)
+3/18/2022 15:03:07,22,1,Male,Singapore,NUS,Arts & Humanities,4,6-8hrs,Sometimes,Sometimes,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/18/2022 15:08:24,24,2,Male,Singapore,NUS,Nursing,4,3-6hrs,Often,Sometimes,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/18/2022 15:11:36,22,2,Male,Singapore,NUS,Engineering,4,6-8hrs,Rarely,Often,Sometimes,Sometimes,No,Yes,Sometimes
+3/18/2022 15:36:07,23,3,Male,Singapore,NUS,Computing,4,>8hrs,Sometimes,Often,Sometimes,Sometimes,No,No,Sometimes
+3/18/2022 15:40:12,23,2,Male,Singapore,NUS,Science,4,3-6hrs,Often,Sometimes,Rarely,Often,No,No,N/A (Not Applicable)
+3/18/2022 16:31:03,23,2,Male,Singapore,NUS,Arts & Humanities,1,6-8hrs,Sometimes,Often,Sometimes,Sometimes,No,No,Often
+3/18/2022 17:12:07,22,2,Male,Singapore,NTU,Business,4,6-8hrs,Sometimes,Rarely,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/18/2022 19:59:49,25,3,Male,Singapore,SUSS,Business,4,6-8hrs,Rarely,Often,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/19/2022 10:00:28,20,2,Female,Singapore,NUS,Nursing,5,6-8hrs,Sometimes,Sometimes,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/29/2022 17:11:02,22,4,Female,Singapore,NUS,Science,6,6-8hrs,Rarely,Never,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/30/2022 1:30:10,23,5,Female,Singapore,Lasalle,Fashion,4,3-6hrs,Sometimes,Often,Often,Sometimes,No,Yes,Rarely
+3/30/2022 1:45:55,23,5,Female,Singapore,NTU,Business,2,6-8hrs,Rarely,Rarely,Sometimes,Sometimes,No,No,Often
+3/31/2022 16:15:26,25,3,Male,Singapore,NUS,Science,4,3-6hrs,Often,Sometimes,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/31/2022 16:23:45,20,2,Female,Singapore,NUS,Science,6,6-8hrs,Often,Rarely,Sometimes,Often,No,No,Rarely
+3/31/2022 16:23:57,23,2,Male,Singapore,NUS,Science,5,>8hrs,Often,Often,Rarely,Often,No,No,Always
+3/31/2022 16:24:55,23,2,Male,Singapore,NUS,Science,4,3-6hrs,Often,Rarely,Sometimes,Sometimes,No,Yes,Always
+3/31/2022 16:25:24,22,2,Male,Singapore,NUS,Science,1,3-6hrs,Often,Often,Always,Never,No,No,N/A (Not Applicable)
+3/31/2022 16:41:05,23,2,Male,Singapore,NUS,Science,3,3-6hrs,Often,Never,Sometimes,Sometimes,No,No,N/A (Not Applicable)
+3/31/2022 16:45:19,21,2,Female,Singapore,NUS,Arts & Humanities,5,6-8hrs,Sometimes,Sometimes,Rarely,Often,Yes,No,N/A (Not Applicable)
+3/31/2022 16:45:34,22,2,Male,Singapore,NUS,Computing,3,3-6hrs,Rarely,Often,Often,Sometimes,No,No,N/A (Not Applicable)
+3/31/2022 16:45:47,19,2,Male,Singapore,NUS,Science,4,6-8hrs,Sometimes,Often,Rarely,Always,No,No,N/A (Not Applicable)
+3/31/2022 16:48:00,22,2,Male,Singapore,NUS,Science,4,6-8hrs,Sometimes,Sometimes,Rarely,Often,Yes,No,Rarely
+3/31/2022 16:49:30,24,4,Female,Singapore,NUS,Nursing,4,6-8hrs,Often,Always,Sometimes,Often,No,No,Rarely
+3/31/2022 16:53:26,23,2,Male,Singapore,NUS,Science,2,6-8hrs,Sometimes,Always,Often,Rarely,No,No,N/A (Not Applicable)
+3/31/2022 17:03:37,19,1,Female,Singapore,NUS,Science,5,6-8hrs,Sometimes,Sometimes,Rarely,Rarely,No,No,Rarely
+3/31/2022 17:04:34,27,5,Male,Singapore,NUS,Medicine,3,3-6hrs,Rarely,Sometimes,Often,Sometimes,Yes,No,Often
+3/31/2022 17:48:04,21,2,Female,Singapore,,Science,2,6-8hrs,Often,Rarely,Rarely,Sometimes,No,No,N/A (Not Applicable)
+3/31/2022 20:37:00,20,1,Male,Singapore,NUS,Social Science,5,6-8hrs,Sometimes,Always,Sometimes,Often,No,No,N/A (Not Applicable)
+3/31/2022 20:51:23,22,2,Male,Singapore,NUS,Arts & Humanities,5,6-8hrs,Rarely,Always,Rarely,Sometimes,No,No,N/A (Not Applicable)
+4/2/2022 9:34:42,21,2,Male,Singapore,NUS,Science,6,6-8hrs,Always,Often,Rarely,Often,No,No,Rarely
